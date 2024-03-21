@@ -14,4 +14,4 @@ Bambi.wav is available in the main BKBS repo and is not included in the MIT Lice
 * While paused, Page Up and Page Down jump to nearest lines with notes on them
 * Z and X fast forward and reverse
 
-99% of the code and comments are in BP_NoteChart, including the controls.
+99% of the code and comments are in BP_SongChart, including the controls.
