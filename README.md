@@ -6,6 +6,14 @@ Unreal is owned by Epic, but all of the code/scripting exclusive to this project
 
 Bambi.wav is available in the main BKBS repo and is not included in the MIT License.
 
+# Dependencies
+Unreal Engine 5 Editor
+
+[Victory Plugin](https://github.com/EverNewJoy/VictoryPlugin) for writing the CSV.
+
+# Usage
+Open the project in the Unreal Editor and place your song in the Song slot on the BP_SongChart placed in the default level. Output file defaults to BambiCSV.txt.
+
 # Controls
 * Pressing preview in Editor starts the song playing.
 * Arrow keys while the song is playing generate arrows [may not show up until next time you hit preview]
