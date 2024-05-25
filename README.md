@@ -23,3 +23,8 @@ Open the project in the Unreal Editor and place your song in the Song slot on th
 * Z and X fast forward and reverse
 
 99% of the code and comments are in BP_SongChart, including the controls.
+
+# Preview
+
+https://github.com/hardrockbluesky/NoteChartBuilder/assets/38575131/4a941631-759c-4b15-8880-fe933ae7ad5a
+
